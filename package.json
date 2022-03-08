@@ -1,5 +1,5 @@
 {
-  "name": "better-fizzbuzz",
+  "name": "fizzbuzz-game-api",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -7,17 +7,8 @@
   "scripts": {
     "test": "nodemon . 3500"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TilGP/better-FizzBuzz.git"
-  },
-  "keywords": [],
-  "author": "",
+  "author": "TilGP",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TilGP/better-FizzBuzz/issues"
-  },
-  "homepage": "https://github.com/TilGP/better-FizzBuzz#readme",
   "dependencies": {
     "express": "^4.17.3",
     "lowdb": "^3.0.0",
